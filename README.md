@@ -1,2 +1,0 @@
-# CDD
-CDD Data Visualization
