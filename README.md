@@ -43,16 +43,3 @@ In addition to the traditional PDF reporting format, we’ve built an **interact
 > Run locally:
 ```bash
 streamlit run shg_dashboard.py
-
----
-## 📬 Contact
-
-For queries, feedback, or collaboration:
-
-- 👤 **Name**: Aditya Kumar  
-- 📧 **Email**: aditya.misofficerwep@gmail.com  
-- 🏢 **Organization**: EY Foundation – Project Utthan  
-
-
-##✨ *“Empowerment begins with visibility — this dashboard brings every SHG’s effort to light.”*
-
