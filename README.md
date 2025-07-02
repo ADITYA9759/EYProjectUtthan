@@ -40,6 +40,25 @@ In addition to the traditional PDF reporting format, we’ve built an **interact
 - 🖱️ **User-Friendly UI**: Minimal effort, maximum insight  
 - 🚀 **Deployable Anywhere** (Streamlit Cloud, Heroku, Localhost)
 
+├── data/
+│   └── shg_dataset_2024.csv
+├── scripts/
+│   └── analysis_notebooks.ipynb
+│   └── shg_dashboard.py
+├── reports/
+│   └── SHG_Consolidated_Report_2024.pdf
+├── README.md
+
+📬 Contact
+For queries, feedback, or collaboration:
+
+👤 Name: Aditya Kumar
+
+📧 Email: aditya.misofficerwep@gmail.com
+
+🏢 Organization: EY Foundation – Project Utthan
+
+✨ “Empowerment begins with visibility — this dashboard brings every SHG’s effort to light.”
 > Run locally:
 ```bash
 streamlit run shg_dashboard.py
