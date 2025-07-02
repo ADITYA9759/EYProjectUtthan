@@ -44,7 +44,7 @@ In addition to the traditional PDF reporting format, we’ve built an **interact
 ```bash
 streamlit run shg_dashboard.py
 
-
+---
 ## 📬 Contact
 
 For queries, feedback, or collaboration:
@@ -53,7 +53,6 @@ For queries, feedback, or collaboration:
 - 📧 **Email**: aditya.misofficerwep@gmail.com  
 - 🏢 **Organization**: EY Foundation – Project Utthan  
 
----
 
-> ✨ *“Empowerment begins with visibility — this dashboard brings every SHG’s effort to light.”*
+##✨ *“Empowerment begins with visibility — this dashboard brings every SHG’s effort to light.”*
 
