@@ -1,76 +1,45 @@
-SHG Project Report & Interactive Dashboard
+# 🌱 SHG Project Report & Interactive Dashboard – Project Utthan (2024)
+
+Welcome to the **Self Help Groups (SHG) Performance Analysis** repository under **Project Utthan**, an initiative by **EY Foundation** to strengthen grassroots empowerment.
+
+This project provides a comprehensive data-driven evaluation of SHG activities across multiple villages, with special focus on:
+
+- ✅ Grading & CCL Status  
+- 🎓 Training Participation  
+- 🌾 Agricultural Engagement  
+- 🛠️ Skill Development  
+- 🐄 Animal Husbandry  
+- 🤝 Convergence & Entitlement Access  
+
+Our mission: **To monitor, analyze, and enhance SHG performance for sustainable rural development in 2024.**
 
 ---
 
-Overview
+## 🔑 Key Features
 
-Welcome to the Self Help Groups (SHG) Performance Analysis repository for Project Utthan!
-This project offers a comprehensive evaluation of SHG activities across villages, focusing on critical metrics such as:
-
-Grading and CCL Status
-
-Training Participation
-
-Agricultural Engagement
-
-Skill Development Initiatives
-
-Animal Husbandry Progress
-
-Convergence and Entitlement Access
-
-
-Our primary goal is to monitor, analyze, and enhance the performance of SHGs to foster sustainable development and empowerment at the grassroots level for the year 2024.
+✔️ **Total SHG Count Analysis**  
+✔️ **Grading & CCL Performance Tracking**  
+✔️ **Complete Training Records** (Leadership, Book Keeping, VO Trainings)  
+✔️ **Crop-wise Agricultural Activities** (Wheat, Paddy, Vegetables)  
+✔️ **Skill Development Progress by Village**  
+✔️ **Animal Husbandry Tracking** (Cattle, Goat, Poultry)  
+✔️ **Convergence & Entitlement Metrics**  
+✔️ **Village-wise SHG Consolidated Overview**  
+✔️ **📊 Streamlit-Powered Interactive Dashboard** *(NEW!)*
 
 ---
 
-Key Features
+## 📊 Python Dashboard (Interactive)
 
-Total SHG Numbers Analysis
+In addition to the traditional PDF reporting format, we’ve built an **interactive web dashboard** using **Streamlit + Plotly** to make data exploration intuitive, insightful, and engaging.
 
-Grading and CCL Performance Tracking
+### Dashboard Highlights:
 
-Comprehensive SHG Training Records (Leadership, Book Keeping, VO Trainings)
+- 🔍 **Real-Time Filters**: View SHG data by village, category, or metric  
+- 📈 **Dynamic Charts**: Bar charts, pie charts, line graphs — all live & interactive  
+- 🖱️ **User-Friendly UI**: Minimal effort, maximum insight  
+- 🚀 **Deployable Anywhere** (Streamlit Cloud, Heroku, Localhost)
 
-Agricultural Activities Insights (Wheat, Paddy, Vegetables)
-
-Skill Development Programs Progress
-
-Animal Husbandry Details (Cattle, Goat, Poultry)
-
-Convergence and Entitlement Metrics
-
-Village-wise SHG Consolidated Data Overview
-
-Interactive Python Dashboard for real-time data visualization and insights (NEW!)
-
----
-
-Python Dashboard
-
-In addition to the static PDF report, we have developed an Interactive Python Dashboard using Streamlit and Plotly, making the data exploration more dynamic and user-friendly.
-
-Dashboard Highlights:
-
-Real-time Data Filtering: Explore SHG performance by village or metric.
-
-Interactive Charts: Bar graphs, pie charts, and line charts for quick insights.
-
-
-
-
-Enjoy a fully interactive experience analyzing the SHG project data!
-
-
----
-
-Contact
-
-For any queries, collaborations, or suggestions:
-
-Name: Aditya Kumar
-
-Email: aditya.misofficerwep@gmail.com
-
-EY Foundation Organization : Project Utthan
-
+> Run locally:
+```bash
+streamlit run shg_dashboard.py
