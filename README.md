@@ -44,7 +44,6 @@ In addition to the traditional PDF reporting format, we’ve built an **interact
 ```bash
 streamlit run shg_dashboard.py
 
----
 
 ## 📬 Contact
 
